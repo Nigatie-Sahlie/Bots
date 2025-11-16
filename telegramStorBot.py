@@ -91,10 +91,10 @@ logging.basicConfig(
 
 # Questions you want to ask the user
 questions = [
-    "ስሞት ማን ነው?",
-    "የክርስትና ስሞትስ?",
-    "ስልክ ቁጥሮት?",
-    "የወርሃዊ መዋጮዎት ስንት ነው?"
+    "what is your name?",
+    "your Department?",
+    "your phone number?",
+    "about the bot?"
 ]
 
 # Dictionary to store user responses temporarily
